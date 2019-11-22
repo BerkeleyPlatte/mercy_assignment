@@ -1,10 +1,4 @@
-/*
 
-Lava Landing Page
-
-https://templatemo.com/tm-540-lava-landing-page
-
-*/
 
 /* ---------------------------------------------
 Table of contents
@@ -1085,13 +1079,17 @@ footer
 
 footer {
   margin-top: 200px;
-  padding-top: 120px;
-  background-image: url(../images/footer-bg.png);
+  padding-top: 25px;
+  /* background-image: url(../images/footer-bg.png); */
+  background-image: linear-gradient(145deg, lightskyblue 0%, royalblue 100%);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  width: 100%;
+  width: 100%; 
 }
+
+
+ 
 
 footer .footer-content {
   padding: 120px 0px;
